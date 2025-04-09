@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function ContactPage() {
   return (
-    <main className="font-[family-name:var(--font-geist-sans)]">
+    <main className="font-sans">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
@@ -10,7 +10,7 @@ export default function ContactPage() {
             Get In Touch
           </h1>
           <p className="text-xl mb-8 max-w-3xl">
-            Have questions about ClickFunnels or need help with your marketing funnels? I'm here to help!
+            Have questions about ClickFunnels or need help with your marketing funnels? I&apos;m here to help!
           </p>
         </div>
       </section>
@@ -171,7 +171,7 @@ export default function ContactPage() {
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <h3 className="font-bold text-lg mb-2">Is there a refund policy for your services?</h3>
               <p className="text-gray-700">
-                I stand behind my work with a satisfaction guarantee. If you're not completely satisfied with the services provided, please contact me within 14 days and I'll work to make it right.
+                I stand behind my work with a satisfaction guarantee. If you&apos;re not completely satisfied with the services provided, please contact me within 14 days and I&apos;ll work to make it right.
               </p>
             </div>
           </div>

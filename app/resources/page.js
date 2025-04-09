@@ -47,7 +47,7 @@ export default function ResourcesPage() {
   ];
 
   return (
-    <main className="font-[family-name:var(--font-geist-sans)]">
+    <main className="font-sans">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-700 to-purple-600 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto text-center">
@@ -161,7 +161,7 @@ export default function ResourcesPage() {
                   Exclusive Bonus: One Funnel Away Challenge
                 </h2>
                 <p className="mb-6">
-                  Join Russell Brunson's 30-day challenge to build your first (or next) profitable funnel. Get daily training, coaching calls, and a proven framework for success.
+                  Join Russell Brunson&apos;s 30-day challenge to build your first (or next) profitable funnel. Get daily training, coaching calls, and a proven framework for success.
                 </p>
                 <ul className="space-y-2 mb-6">
                   <li className="flex items-start">
@@ -213,7 +213,7 @@ export default function ResourcesPage() {
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <h3 className="font-bold text-lg mb-2">How do I access these resources?</h3>
               <p className="text-gray-700">
-                After signing up with our affiliate link and subscribing to our email list, you'll receive immediate access to download all resources directly to your device.
+                After signing up with our affiliate link and subscribing to our email list, you&apos;ll receive immediate access to download all resources directly to your device.
               </p>
             </div>
             
@@ -234,7 +234,7 @@ export default function ResourcesPage() {
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <h3 className="font-bold text-lg mb-2">How often do you add new resources?</h3>
               <p className="text-gray-700">
-                We add new resources monthly. Subscribers to our email list are the first to know about new tools, templates, and guides as soon as they're available.
+                We add new resources monthly. Subscribers to our email list are the first to know about new tools, templates, and guides as soon as they&apos;re available.
               </p>
             </div>
           </div>

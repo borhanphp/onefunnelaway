@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function KartraComparisonPage() {
   return (
-    <main className="font-[family-name:var(--font-geist-sans)]">
+    <main className="font-sans">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-700 to-purple-700 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">

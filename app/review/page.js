@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function ReviewPage() {
   return (
-    <main className="font-[family-name:var(--font-geist-sans)]">
+    <main className="font-sans">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-700 to-indigo-800 text-white py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
@@ -36,13 +36,13 @@ export default function ReviewPage() {
           <h2 className="text-3xl font-bold mb-6">ClickFunnels Overview</h2>
           <div className="prose max-w-none">
             <p className="text-lg text-gray-700 mb-4">
-              In this comprehensive review, I'll share my honest thoughts about ClickFunnels after using it for over 3 years to build sales funnels for both my own business and my clients.
+              In this comprehensive review, I&apos;ll share my honest thoughts about ClickFunnels after using it for over 3 years to build sales funnels for both my own business and my clients.
             </p>
             <p className="text-lg text-gray-700 mb-4">
               ClickFunnels is a web-based software that allows you to create complete sales funnels without needing a team of developers, designers, or marketers. Founded by Russell Brunson in 2014, it has grown to become one of the most popular sales funnel builders in the world.
             </p>
             <p className="text-lg text-gray-700">
-              If you're considering investing in ClickFunnels, this review will help you decide if it's the right platform for your business needs.
+              If you&apos;re considering investing in ClickFunnels, this review will help you decide if it&apos;s the right platform for your business needs.
             </p>
           </div>
         </div>

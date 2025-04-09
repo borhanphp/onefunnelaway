@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="font-[family-name:var(--font-geist-sans)]">
+    <main className="font-sans">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-600 to-purple-700 text-white py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto text-center">
@@ -62,10 +62,10 @@ export default function Home() {
               </div>
               <div>
                 <p className="text-lg text-gray-700 mb-4">
-                  As a certified ClickFunnels partner and successful digital marketer, I've helped dozens of businesses implement effective sales funnels that drive real results.
+                  As a certified ClickFunnels partner and successful digital marketer, I&apos;ve helped dozens of businesses implement effective sales funnels that drive real results.
                 </p>
                 <p className="text-lg text-gray-700 mb-4">
-                  I've personally generated over $XXX,XXX in revenue using the exact strategies I share on this website.
+                  I&apos;ve personally generated over $XXX,XXX in revenue using the exact strategies I share on this website.
                 </p>
                 <p className="text-lg text-gray-700">
                   My goal is simple: to provide you with honest, practical advice about using ClickFunnels to grow your business, based on real-world experience.
@@ -181,7 +181,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700 italic">
-                "After following the strategies on this site, I was able to set up my ClickFunnels sales process in just two days. My conversion rates increased by 34% in the first month alone!"
+                &quot;After following the strategies on this site, I was able to set up my ClickFunnels sales process in just two days. My conversion rates increased by 34% in the first month alone!&quot;
               </p>
             </div>
             
@@ -195,7 +195,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700 italic">
-                "I was skeptical about ClickFunnels at first, but after reading the detailed reviews and guides here, I decided to give it a try. Six months later, my online course is generating $20K/month in passive income."
+                &quot;I was skeptical about ClickFunnels at first, but after reading the detailed reviews and guides here, I decided to give it a try. Six months later, my online course is generating $20K/month in passive income.&quot;
               </p>
             </div>
           </div>
