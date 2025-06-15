@@ -4,7 +4,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata = {
-  metadataBase: new URL('https://www.onefunnelaway.com'),
+  metadataBase: new URL('https://www.onefunnelaway.xyz'),
   title: {
     default: 'One Funnel Away | ClickFunnels Affiliate Resources and Guides',
     template: '%s | One Funnel Away'
@@ -22,7 +22,7 @@ export const metadata = {
   openGraph: {
     title: 'One Funnel Away | ClickFunnels Affiliate Resources and Guides',
     description: 'Find the best ClickFunnels resources, honest reviews, and comparison guides to help you build high-converting sales funnels for your business.',
-    url: 'https://www.onefunnelaway.com',
+    url: 'https://www.onefunnelaway.xyz',
     siteName: 'One Funnel Away',
     images: [
       {
@@ -85,6 +85,8 @@ export default function RootLayout({ children }) {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#2563eb" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7884969032775397"
+     crossorigin="anonymous"></script>
       </head>
       <body className="min-h-screen bg-white font-sans">
         {children}
